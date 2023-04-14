@@ -1,0 +1,16 @@
+Total entries: 15
+800-111-007 David M Garcia 80 -
+800-111-301 Susan T Jones 55 90
+800-101-711 John Smith - 90
+800-100-221 Michael S Yeager 48 100
+800-112-105 David Williams - -
+800-211-012 Paul T Hernandez 88 50
+800-127-412 Andrew Smith 73 45
+800-109-128 David Brown 80 75
+800-121-122 Robert Lindbergh - 55
+800-121-311 Peter Smith 60 -
+800-111-909 Michael M Garcia 94 57
+800-012-112 Robert Hoover 58 92
+800-199-913 Scott Crossfield 66 35
+800-114-121 Noel Wien - 88
+800-919-441 David N Yeager 80 98
